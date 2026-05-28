@@ -1,0 +1,7 @@
+install.packages(c("tidyverse", "caret", "randomForest", "gbm", "nnet", "pROC"))
+library(tidyverse)
+library(caret)
+library(randomForest)
+library(gbm)
+library(nnet)
+library(pROC)
